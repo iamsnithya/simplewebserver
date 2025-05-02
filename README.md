@@ -101,6 +101,11 @@ Open a browser and navigate to http://127.0.0.1:8000 (or the assigned port).
 
 
 ## OUTPUT:
+
+Name : NITHYA S
+
+Reg no : 212224240106
+
 ![web ex 1](https://github.com/user-attachments/assets/690e1b7c-5e6c-4207-8451-92db1d6a96ba)
 
 
